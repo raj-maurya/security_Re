@@ -1,4 +1,4 @@
-# Beginner Resources
+# Beginners Resources to get started in web security
 
 ### https://introvertmac.wordpress.com/bug-bounty-resources/
 
