@@ -1,8 +1,6 @@
-# security_Re
+# security_Re ( Learning Web Security from scratch )
 
-### Learning Web Security from scratch
-
-### https://introvertmac.wordpress.com/bug-bounty-resources/
+#### https://introvertmac.wordpress.com/bug-bounty-resources/
 
 
 ## Intro to Web security / hacking [ Books ]
